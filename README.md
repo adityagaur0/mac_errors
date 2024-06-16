@@ -1,5 +1,5 @@
 # mac_errors
-# open Zshrc
+## open Zshrc
 ```
 nano ~/.zshrc
 ```
