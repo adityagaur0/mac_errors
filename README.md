@@ -16,3 +16,8 @@ Open Finder > Press Cmd+Shift+.
 Or:
 
 Open Terminal > and type: open ~/.zshrc
+
+
+```
+export PATH=$PATH:/opt/homebrew/bin
+```
