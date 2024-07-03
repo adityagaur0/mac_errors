@@ -15,8 +15,10 @@ To view/open ~/.zshrc you can do either of two things:
 Open Finder > Press Cmd+Shift+.
 Or:
 
-Open Terminal > and type: open ~/.zshrc
-
+Open Terminal > and type: 
+```
+open ~/.zshrc
+```
 
 ```
 export PATH=$PATH:/opt/homebrew/bin
